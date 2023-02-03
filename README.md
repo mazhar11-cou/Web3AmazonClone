@@ -32,3 +32,11 @@ In a separate terminal execute:
 
 ### 7. Front page of Dappazon
 
+![alt text](https://github.com/mazhar11-cou/Web3AmazonClone/blob/main/img/dappazon.PNG)
+
+### 8. Buy page
+
+![alt text](https://github.com/mazhar11-cou/Web3AmazonClone/blob/main/img/dappazon3.PNG)
+
+
+
