@@ -104,7 +104,7 @@
             },
             {
                 "internalType": "uint256",
-                "name": "rating",
+                "name": "ratting",
                 "type": "uint256"
             },
             {
@@ -145,7 +145,7 @@
             },
             {
                 "internalType": "uint256",
-                "name": "_rating",
+                "name": "_ratting",
                 "type": "uint256"
             },
             {
@@ -227,7 +227,7 @@
                     },
                     {
                         "internalType": "uint256",
-                        "name": "rating",
+                        "name": "ratting",
                         "type": "uint256"
                     },
                     {
