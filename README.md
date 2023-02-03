@@ -29,7 +29,11 @@ In a separate terminal execute:
 
 ### 6. Start frontend
 change the directory to src forlder 
-`cd src`
+
+`$cd src` 
+
+and run
+
 `$ npm run start`
 
 ### 7. Front page of Dappazon
