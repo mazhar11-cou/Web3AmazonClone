@@ -28,6 +28,8 @@ In a separate terminal execute:
 `$ npx hardhat run ./scripts/deploy.js --network localhost`
 
 ### 6. Start frontend
+change the directory to src forlder 
+`cd src`
 `$ npm run start`
 
 ### 7. Front page of Dappazon
